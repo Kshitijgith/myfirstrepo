@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {int i,a,b;
-
+cout<<"enter value of a and b";
 cin>>a>>b;
 
 for(i=a;i<=b;i++)
