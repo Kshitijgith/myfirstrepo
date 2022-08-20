@@ -6,6 +6,7 @@ int main()
 
     cin>>a>>b;
     c=a+b;
+    cout<<"sum is"
     cout<<c;
     return 0;
 }
